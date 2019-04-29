@@ -8,7 +8,7 @@ setup(
   author = 'Bohdan Dubas',
   author_email = 'bogdan.dubas@gmail.com',
   url = 'https://github.com/BDubas',
-  download_url = 'https://github.com/BDubas/timedec/archive/v_0.1.tar.gz',
+  download_url = 'https://github.com/BDubas/timedec/archive/v_0.1.1.tar.gz',
   keywords = ['timeit', 'timer', 'profiling', 'decorator'],
   classifiers=[
     'Development Status :: 3 - Alpha',
